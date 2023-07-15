@@ -16,8 +16,8 @@ The Project is for the **Advanced Full-Stack Web Development Nanodegree Program 
 6. Build the frontend - `npm run build`
 7. Start the frontend - `npm run start`
 8. Install dependencies the backend - `npm install .`
-9. Build the frontend - `npm run build`
-10. Start the frontend - `npm run start`
+9. Build the backend - `npm run build`
+10. Start the backend - `npm run start`
 
 ### AWS Cloud Setup
 - Environment Variables
@@ -38,3 +38,5 @@ JWT_SECRET=mysecretstring
 - S3 Endpoint - Frontend: http://myprojectbucketz.s3-website-us-east-1.amazonaws.com/
 
 - Elastic Beanstalk URL - Backend: http://myprojectv3-env.us-east-1.elasticbeanstalk.com/
+
+### Evidences
