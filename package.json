@@ -13,6 +13,7 @@
         "backend:change-main": "cd udagram/udagram-api && npm run change-main",
         "backend:start": "cd udagram/udagram-api && npm run dev",
         "backend:deploy": "cd udagram/udagram-api && npm run deploy",
+        "backend:aws-eb": "cd udagram/udagram-api && npm run aws-eb",
         "deploy": "npm run backend:deploy && npm run frontend:deploy"
     }
 }
