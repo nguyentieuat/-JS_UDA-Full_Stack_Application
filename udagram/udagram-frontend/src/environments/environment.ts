@@ -10,7 +10,7 @@
 export const environment = {
   production: true,
   appName: "myprojectbucketz",
-  apiHost: "http://myprojectv3-env.eba-futr4mze.us-east-1.elasticbeanstalk.com/api/v0/",
+  apiHost: "http://myprojectv3-env.us-east-1.elasticbeanstalk.com/api/v0/",
 };
 
 /*
