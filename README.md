@@ -22,14 +22,16 @@ The Project is for the **Advanced Full-Stack Web Development Nanodegree Program 
 ### AWS Cloud Setup
 - Environment Variables
 Setup the following variables in the cloud environments:
-POSTGRES_USERNAME=postgresdb
-POSTGRES_PASSWORD=Anhnhoem220v3
-POSTGRES_HOST=postgres.cih3g0ltfxzr.us-east-1.rds.amazonaws.com
-POSTGRES_DB=postgres
-AWS_BUCKET=arn:aws:s3:::myprojectbucketz
-AWS_REGION=us-east-1
-AWS_PROFILE=default
-JWT_SECRET=mysecretstring
+```
+- POSTGRES_USERNAME=postgresdb
+- POSTGRES_PASSWORD=Anhnhoem220v3
+- POSTGRES_HOST=postgres.cih3g0ltfxzr.us-east-1.rds.amazonaws.com
+- POSTGRES_DB=postgres
+- AWS_BUCKET=arn:aws:s3:::myprojectbucketz
+- AWS_REGION=us-east-1
+- AWS_PROFILE=default
+- JWT_SECRET=mysecretstring
+```
 
 - RDS - Database Host: postgres.cih3g0ltfxzr.us-east-1.rds.amazonaws.com
 - RDS - Database Port: 5432
@@ -40,3 +42,4 @@ JWT_SECRET=mysecretstring
 - Elastic Beanstalk URL - Backend: http://myprojectv3-env.us-east-1.elasticbeanstalk.com/
 
 ### Evidences
+Some images in folder Screenshot
